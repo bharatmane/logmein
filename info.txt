@@ -1,0 +1,42 @@
+LogMeIn - Application Information
+=================================
+
+Application Name: LogMeIn
+Version: 1.0.0
+Author: [Your Name or Company]
+License: MIT License
+
+Description:
+-------------
+LogMeIn is an automated login tool designed to streamline the login process for specified websites. The application securely stores and retrieves user credentials, automates login actions, and handles file downloads and execution.
+
+Features:
+---------
+- Automated login to specified websites.
+- Secure storage and retrieval of user credentials.
+- Automated file download and opening process.
+- Easy-to-use interface with minimal setup required.
+
+Requirements:
+-------------
+- .NET 8.0 SDK or later
+- Google Chrome browser
+- ChromeDriver (compatible with your Chrome version)
+
+Installation:
+-------------
+1. Ensure that .NET 6.0 SDK or later is installed on your system.
+   Download from: https://dotnet.microsoft.com/download
+
+2. Install Google Chrome if it is not already installed.
+   Download from: https://www.google.com/chrome/
+
+3. Download and install ChromeDriver, matching your Chrome version.
+   Download from: https://sites.google.com/chromium.org/driver/
+
+4. Place the ChromeDriver executable in a directory included in your system's PATH environment variable.
+
+Usage:
+------
+1. Run the application by executing the LogMeIn.exe file.
+2. On the first 
