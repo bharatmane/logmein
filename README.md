@@ -17,7 +17,7 @@ LogMeIn is an automated login tool designed to streamline the login process for 
 ## Installation
 
 ### Using the Installer
-1. Download the installer from the [releases page](https://github.com/yourusername/logmein/releases).
+1. Download the installer from the [releases page](https://github.com/bharatmane/logmein/releases).
 2. Run the installer and follow the on-screen instructions to complete the installation.
 
 ### Manual Installation
